@@ -1,0 +1,11 @@
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/bin/Debug/netcoreapp3.0/MastermindConsole
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/bin/Debug/netcoreapp3.0/MastermindConsole.deps.json
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/bin/Debug/netcoreapp3.0/MastermindConsole.runtimeconfig.json
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/bin/Debug/netcoreapp3.0/MastermindConsole.runtimeconfig.dev.json
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/bin/Debug/netcoreapp3.0/MastermindConsole.dll
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/bin/Debug/netcoreapp3.0/MastermindConsole.pdb
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/obj/Debug/netcoreapp3.0/MastermindConsole.csprojAssemblyReference.cache
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/obj/Debug/netcoreapp3.0/MastermindConsole.AssemblyInfoInputs.cache
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/obj/Debug/netcoreapp3.0/MastermindConsole.AssemblyInfo.cs
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/obj/Debug/netcoreapp3.0/MastermindConsole.dll
+/Users/muhammeddincer/Desktop/Coding Assesments/MastermindConsole/MastermindConsole/obj/Debug/netcoreapp3.0/MastermindConsole.pdb
